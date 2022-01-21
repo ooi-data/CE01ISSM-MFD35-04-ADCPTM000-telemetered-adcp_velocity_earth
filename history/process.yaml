@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-MFD35-04-ADCPTM000-telemetered-adcp_velocity_earth
 data_stream: CE01ISSM-MFD35-04-ADCPTM000-telemetered-adcp_velocity_earth
-end_date: '2021-12-31T20:33:43.168Z'
-last_updated: '2022-01-01T22:40:07.945216'
+end_date: '2022-01-20T20:33:54.051Z'
+last_updated: '2022-01-21T08:14:50.066695Z'
 start_date: '2014-10-11T00:30:34.429Z'
-status: success
+status: pending
